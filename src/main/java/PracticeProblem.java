@@ -1,6 +1,7 @@
 public class PracticeProblem {
 
 	public static void main(String args[]) {
+
 		q1();
 		q2();
 		q3();
@@ -13,12 +14,11 @@ public class PracticeProblem {
 	    int number1;
 		int number2;
 		int number3;
-		number1=2;
-		number2=3;
+		number1=10;
+		number2=30;
 		number3=5;
 		System.out.println(number1);
 		System.out.println(number2);
-		System.out.println(number3);
 	}
 
 	public static void q2() {
